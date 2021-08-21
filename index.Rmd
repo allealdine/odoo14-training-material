@@ -735,37 +735,26 @@ workshops with key company employees:
 
 Setup a working Odoo ERP database by respecting these steps:
 
-\# Open your web client to create a new database:
+- Open your web client to create a new database:
 
-> -- Do not select demonstration data and use English US as default
-> language;
->
-> -- Give a name to the database and choose an admin password.
+  - Do not select demonstration data and use English US as default language;
+  - Give a name to the database and choose an admin password.
 
-\# Install the following generic modules:
+- Install the following generic modules:
 
-> -- CRM / Customer Relationship Management,
->
-> -- Sales Management (Select the generic chart of accounts and set 21%
-> sales and purchase taxes, and click apply)
->
-> -- Purchase Management,
->
-> -- Accounting & Finance,
->
-> -- MRP / Manufacturing,
->
-> -- Warehouse Management.
+  - CRM / Customer Relationship Management
+  - Sales Management (Select the generic chart of accounts and set 21% sales and purchase taxes, and click apply)
+  - Purchase Management
+  - Accounting & Finance
+  - MRP / Manufacturing
+  - Warehouse Management
 
-\# Conﬁgure your company (Settings -\> Companies):
+- Conﬁgure your company (Settings > Companies):
 
-> -- NotSoTiny Company -Union Street, 512 -1000 Brussels Belgium;
->
-> -- Currency: Euro;
->
-> -- Load your logo if possible.
->
-> -- Select the extended interface by accessing the Preferences menu;
+  - NotSoTiny Company -Union Street, 512 -1000 Brussels Belgium;
+  - Currency: Euro;
+  - Load your logo if possible.
+  - Select the extended interface by accessing the Preferences menu;
 
 ### User Setup
 
